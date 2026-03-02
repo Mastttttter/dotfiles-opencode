@@ -87,6 +87,7 @@
       }
     }
   },
+  "theme": "tokyonight",
   "model": "bailian-coding-plan/glm-5",
   "small_model": "alibaba-cn/qwen3.5-plus",
   "default_agent": "build",
